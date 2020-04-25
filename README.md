@@ -1,2 +1,2 @@
 # Covid-19-Map
-This is a map created for awareness of covid 19 disease
+I have made this application in order to get visuals of Covid-19 cases. V1
